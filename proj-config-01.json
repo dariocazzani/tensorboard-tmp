@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/dariocazzani/2b515debe88a16be3950a75dd86df3b2/raw/e03aec796ad89fb1e700abca095f2b8325e371df/mnist_01.tsv"
+    }
+  ]
+}
